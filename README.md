@@ -1,12 +1,17 @@
 # A Shared-Backbone Approach for Multi-Task MedMNIST Classification
 
-**SAIIT 2026** · Ștefan-Dorian Gavril, Andrei Arhire, Adrian Iftene
+**[SAIIT 2026](https://www.math.md/saiit2026/)** — International Conference on System Analysis & Intelligent Information Technologies, October 20–22, Chișinău, Moldova
+
+Ștefan-Dorian Gavril · Andrei Arhire · Adrian Iftene  
+Faculty of Computer Science, Alexandru Ioan Cuza University of Iași, Romania
 
 ---
 
+![Architecture](media/architecture.png)
+
 PyTorch implementation for multi-task classification across 11 MedMNIST datasets using a shared convolutional backbone with task-specific linear heads, scored by harmonic mean of per-task macro-F1.
 
-Best result: ConvNeXt-Tiny + label smoothing → **0.73294 harmonic-mean macro-F1** (6th place).
+**Best result:** ConvNeXt-Tiny + label smoothing → **0.73294 harmonic-mean macro-F1** (6th place)
 
 ---
 
@@ -32,11 +37,13 @@ If running outside Kaggle, update `KAGGLE_DIR` in cell 7 to point to your local 
 
 ### Citation
 
-```
+```bibtex
 @inproceedings{gavril2026shared,
   author    = {Gavril, Ștefan-Dorian and Arhire, Andrei and Iftene, Adrian},
   title     = {A Shared-Backbone Approach for Multi-Task MedMNIST Classification},
-  booktitle = {Proceedings of the International Conference on System Analysis and Intelligent Information Technologies (SAIIT)},
+  booktitle = {Proceedings of SAIIT 2026},
   year      = {2026}
 }
 ```
+
+**Contact:** stefan.dorian.gavril@gmail.com
