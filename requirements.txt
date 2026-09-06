@@ -1,0 +1,7 @@
+torch>=2.0
+torchvision
+timm
+medmnist
+scikit-learn
+numpy
+pandas
