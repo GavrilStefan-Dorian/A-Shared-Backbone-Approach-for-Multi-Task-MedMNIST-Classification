@@ -35,15 +35,4 @@ If running outside Kaggle, update `KAGGLE_DIR` in cell 7 to point to your local 
 
 ---
 
-### Citation
-
-```bibtex
-@inproceedings{gavril2026shared,
-  author    = {Gavril, Ștefan-Dorian and Arhire, Andrei and Iftene, Adrian},
-  title     = {A Shared-Backbone Approach for Multi-Task MedMNIST Classification},
-  booktitle = {Proceedings of SAIIT 2026},
-  year      = {2026}
-}
-```
-
 **Contact:** stefan.dorian.gavril@gmail.com
