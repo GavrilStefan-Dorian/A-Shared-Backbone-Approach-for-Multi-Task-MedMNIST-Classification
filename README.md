@@ -1,5 +1,7 @@
 # A Shared-Backbone Approach for Multi-Task MedMNIST Classification
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.06838-b31b1b.svg)](https://arxiv.org/abs/2609.06838)
+
 **[SAIIT 2026](https://www.math.md/saiit2026/)** — International Conference on System Analysis & Intelligent Information Technologies, October 20–22, Chișinău, Moldova
 
 Ștefan-Dorian Gavril · Andrei Arhire · Adrian Iftene  
